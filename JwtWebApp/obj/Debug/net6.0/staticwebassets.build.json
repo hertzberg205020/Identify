@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jVkqYY1OpwRyUem4Dk/6fnwoE7bY4nY0KM3URU6SlVQ=",
+  "Source": "JwtWebApp",
+  "BasePath": "_content/JwtWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

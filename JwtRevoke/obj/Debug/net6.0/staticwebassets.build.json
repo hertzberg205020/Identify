@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QYP8WQNcBghM6tLm2OUx2FrqcWyfx5AOINm9MySDlr8=",
+  "Source": "JwtRevoke",
+  "BasePath": "_content/JwtRevoke",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
